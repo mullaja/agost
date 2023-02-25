@@ -15,7 +15,7 @@ psutil
 psycopg2-binary
 pymediainfo
 pyrogram
-pytgcalls
+pytgcalls==2.0.0
 python-dotenv
 requests
 speedtest-cli==2.1.3
