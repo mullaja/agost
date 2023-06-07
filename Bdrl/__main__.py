@@ -36,7 +36,7 @@ else:
 
 
 group_name = "My Bdrl Logs"
-desc = "Log Groups Bdrl-Userbot.\n\nDon't leave from this group.\n\n✨ Powered By ~ @pantekyks"
+desc = "Log Groups Bdrl-Userbot.\n\nDon't leave from this group.\n\n✨ Powered By ~ @metahoe"
 
 
 async def main():
@@ -62,7 +62,7 @@ async def main():
         pass
     try:
         await app.join_chat("gcaika")
-        await app.join_chat("pantekyks")
+        await app.join_chat("metahoe")
         await app.send_message(
             BOTLOG_CHATID,
             MSG_ON.format(botver)
@@ -75,7 +75,7 @@ async def main():
         get2 = await app2.get_me()
         try:
             await app2.join_chat("gcaika")
-            await app2.join_chat("pantekyks")
+            await app2.join_chat("metahoe")
             await app2.send_message(
                 BOTLOG_CHATID,
                 MSG_ON.format(botver)
@@ -92,7 +92,7 @@ async def main():
         get3 = await app3.get_me()
         try:
             await app3.join_chat("gcaika")
-            await app3.join_chat("pantekyks")
+            await app3.join_chat("metahoe")
             await app3.send_message(
                 BOTLOG_CHATID,
                 MSG_ON.format(botver)
@@ -109,7 +109,7 @@ async def main():
         get4 = await app4.get_me()
         try:
             await app4.join_chat("gcaika")
-            await app4.join_chat("pantekyks")
+            await app4.join_chat("metahoe")
             await app4.send_message(
                 BOTLOG_CHATID,
                 MSG_ON.format(botver)
@@ -126,7 +126,7 @@ async def main():
         get5 = await app5.get_me()
         try:
             await app5.join_chat("gcaika")
-            await app5.join_chat("pantekyks")
+            await app5.join_chat("metahoe")
             await app5.send_message(
                 BOTLOG_CHATID,
                 MSG_ON.format(botver)

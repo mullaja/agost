@@ -22,7 +22,7 @@ I am not responsible for the abuse of this bot.
 
 ## 👥 Support
 
-- Join to Group [@pantekyks](https://t.me/pantekyks) for group discussion.
+- Join to Group [@metahoe](https://t.me/metahoe) for group discussion.
 
 ## 💳 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
